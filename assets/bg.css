@@ -1,0 +1,3 @@
+.bg-frio { background: url('images/clima_frio.jpg') center/cover no-repeat;  background-blend-mode: darken;}
+.bg-moderado { background: url('images/verao.jpg') center/cover no-repeat;  background-blend-mode: darken;}
+.bg-quente { background: url('images/clima_quente.jpg') center/cover no-repeat;  background-blend-mode: darken;}
